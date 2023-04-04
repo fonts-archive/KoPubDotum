@@ -15,7 +15,7 @@ font-family: 'KoPub Dotum';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum.css" type="text/css"/>
 ```
 
 &nbsp;
