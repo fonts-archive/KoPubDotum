@@ -1,4 +1,4 @@
-# Kopub Dotum
+# KoPub Dotum
 
 [Visit Source](https://www.kopus.org/biz-electronic-font2/)
 
@@ -7,7 +7,7 @@
 CSS
 
 ```
-font-family: 'Kopub Dotum';
+font-family: 'KoPub Dotum';
 ```
 
 &nbsp;
@@ -15,7 +15,7 @@ font-family: 'Kopub Dotum';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KopubDotum/KopubDotum.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum.css"/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/fonts-archive/KopubDotum/KopubDotum.css');
+@import url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum.css');
 ```
 
 &nbsp;
@@ -32,27 +32,27 @@ font-face
 
 ```
 @font-face {
-    font-family: 'Kopub Dotum';
+    font-family: 'KoPub Dotum';
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KopubDotum/KopubDotum-Light.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/KopubDotum/KopubDotum-Light.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Light.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Light.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'Kopub Dotum';
+    font-family: 'KoPub Dotum';
     font-weight: 500;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KopubDotum/KopubDotum-Medium.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/KopubDotum/KopubDotum-Medium.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Medium.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Medium.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'Kopub Dotum';
+    font-family: 'KoPub Dotum';
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KopubDotum/KopubDotum-Bold.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/KopubDotum/KopubDotum-Bold.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Bold.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Bold.ttf') format('truetype');
 }
 ```
