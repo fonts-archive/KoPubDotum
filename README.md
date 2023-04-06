@@ -36,7 +36,9 @@ font-face
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Light.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Light.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Light.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Light.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Light.ttf') format('truetype');
 }
 @font-face {
@@ -44,7 +46,9 @@ font-face
     font-weight: 500;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Medium.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Medium.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Medium.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Medium.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Medium.ttf') format('truetype');
 }
 @font-face {
@@ -52,7 +56,9 @@ font-face
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Bold.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubDotum/KoPubDotum-Bold.ttf') format('truetype');
 }
 ```
